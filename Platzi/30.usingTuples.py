@@ -1,4 +1,5 @@
 def firstNotRepeatingChar(charSequence):
+    
     for letter in charSequence:
         letterCount = charSequence.count(letter)
 
@@ -8,10 +9,9 @@ def firstNotRepeatingChar(charSequence):
     return "_"
 
 if __name__ == "__main__":
-    charSequence = str(input("Write a sequence of characters: "))
-
+    charSequence = tuple(input("Write a sequence of characters separated by comma: "))
+    print(type(charSequence))
     result = firstNotRepeatingChar(charSequence)
-
     if result == '_':
         print("All the characters are repeated")
     else:
