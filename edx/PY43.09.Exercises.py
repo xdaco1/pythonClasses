@@ -47,6 +47,23 @@ def getDomainHistogram(logname):
     #print(domainHistogram)
     print(sorted(domainHistogram.items()))
 
+    ####################################
+    #Sorting by value
+    tmp = list()
+    for k,v in domainHistogram.items():
+        tmp.append( (v,k) )
+    print(sorted(tmp,reverse=True))
+
+    #Getting top 3 values
+    print('Getting top 3 values')
+    for val,key in sorted(tmp,reverse=True)[:3]:
+        print(key,val)
+    ##################################
+
+    #Sorting in a shorter version with list comprehension
+    print('Using list comprehension')
+    print( sorted( [ (v,k) for k,v in domainHistogram.items() ], reverse = True) )
+
 if __name__ == "__main__":
     #mailDayCommit('mbox-short.txt')
     #getSenderHistogram('mbox-short.txt')
