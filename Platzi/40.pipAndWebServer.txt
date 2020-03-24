@@ -1,0 +1,65 @@
+Hasta el momento se ha trabajado con el interprete global de pyton,
+esto limita a que sólo se pueda usar una versión de un paquete cuando
+probablemente (en particular para web) será necesario trabajar con más
+versiones.
+
+Será neceseario entonces trabajar con ambientes virtuales.
+
+Instalar pip (o Pypi - Python Package Index)
+1. Descargar el fichero "get-pip.py" de la web.
+2. ejecutarlo en el intérprete de pyton: python get-pip.py
+
+Instalar virtualvenv para crear los ambientes virtuales
+$ pip-install virtualvenv
+
+Crear un directorio para alojar el servidor.
+$ mkdir servidor
+$ cd servidor
+$ virtualvenv venv #por convención se llama venv
+
+Activa ambiente virtual
+$ source venv/Scripts/activate # para windows
+$ source venv/bin/activate # para *nix
+
+La consola agregará al prompt "(venv)" como indicador de que
+se encuentra inicializado el ambiente virtual
+
+Esto genera un interprete de pyton y para conocer de qué
+paquetes dispone se puede ejecutar:
+$$ pip freeze
+click==7.1.1
+itsdangerous==1.1.0
+Jinja2==2.11.1
+MarkupSafe==1.1.1
+Werkzeug==1.0.0
+
+Para generar el servidor, se puede usar la librería flask
+
+$ pip install flask
+
+Ahora se crea un nuevo archivo para guardar las versiones de las librerias
+de manera que queden disponibles para trabajo colborativo
+
+$ touch requirements.txt
+$ cat Flask==1.1.1 > requirements.txt #para el caso de la instalación actual
+
+Tambien, posteriormente se puede usar este fichero para instalar los
+paquetes necesarios para la solución python desarrollada
+
+$pip install -r requirements.txt
+
+Se crea un fichero "main.py" (para este ejemplo) que se encuentra
+en este repo para crear y ejecutar el servidor web.
+
+Una vez creado se ejecuta.
+
+$python main.py
+* Serving Flask app "main" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+
+al ingresar a la url en el navegador se podrá visualizar
+el "Hola, python"
