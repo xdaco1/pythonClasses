@@ -1,0 +1,10 @@
+#archivo necesario para despliegue en GCloud
+service: default
+runtime: python27
+api_version: 1
+threadsafe: yes
+
+handlers:
+- url: .*
+  script: main.app
+  secure: always
