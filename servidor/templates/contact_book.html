@@ -1,0 +1,8 @@
+<!-- Flask permite juntar los diferentes template este fichero
+es un template maestro y contiene todos los atributos <meta>
+y adentro del body poder modificar la parte que es estática.
+El lenguaje especifico de templates para generar html dinámico se llama
+jinja2 y es el que usa flask por defecto -->
+{% extends 'index.html' %} {% block body %}
+<p>Hola estoy dentro del bloque</p>
+{% endblock %}

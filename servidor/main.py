@@ -1,11 +1,12 @@
-from flask import Flask
+from flask import Flask,render_template
 
 app = Flask(__name__)
 
 @app.route('/')
 
 def hello_world():
-    return 'Mi primer servidor python con flask'
+    #return render_template('index.html') # render lo busca en la carpeta templates por default
+    return render_template('contact_book.html')
 
 if __name__ == "__main__":
     app.run()
