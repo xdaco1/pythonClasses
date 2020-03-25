@@ -1,0 +1,11 @@
+.vscode/settings.json
+gitignore
+aleph2.txt
+numbers.txt
+/servidor/venv/
+/servidor/lib/
+/webScrapping/venv/
+/webScrapping/*.jpg
+/Platzi/googleAppEngine/venv/
+*.pyc
+appEngineTutorial/
