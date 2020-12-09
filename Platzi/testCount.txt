@@ -1,0 +1,78 @@
+[1] Symantec Corp. Internet Security Threat Report [vol. 22]. Mountain View, CA:Symantec Corp., 2017.
+[2] L. Batyuk, M. Herpich, S. A. Camtepe, K. Raddatz, A. Schmidt, y S.Albayrak. “Using static analysis for automatic assessment and mitigationof unwanted and malicious activities within Android applications”, enMalicious and Unwanted Software (MALWARE), 2011 6th International Conferenceon. IEEE.
+[3] M. I. Sharif, A. Lanzi, J. T. Giffin, y W. Lee, W. Impeding Malware AnalysisUsing Conditional Code Obfuscation. In NDSS Symposium 2008. InternetSociety.
+[4] L. F. Fuentes. (2008). “Malware, una amenaza de Internet”. Revista DigitalUniversitaria, vol. 9, no. 4, art. 22. Disponible en: http://www.revista.unam.mx/vol.9/num4/art22/art22.pdf
+[5] J. J. Drake, Z. Lanier, C. Mulliner, P. O. Fora, S. A. Ridley, y G. Wicherski.Android hacker’s handbook. Indianapolis, IN: John Wiley & Sons, 2014.
+[6] T. Petsas, G. Voyatzis, E. Athanasopoulos, M. Polychronakis, y S. Ioannidis,S. “Rage against the virtual machine: Hindering dynamic analysis ofandroid malware, en Eurosec’14 Proceedings of the Seventh European Workshopon System Security, Amsterdam: The Netherlands (art. 5), ACM, abr. 2014.https://doi.org/10.1145/2592791.2592796
+[7] C. Urcuqui, y A. Navarro, “Framework for malware analysis in Android”,Sistemas & Telemática, vol. 14, no. 37, pp. 45-56, 2016. https://doi.org/10.18046/syt.v14i37.2241
+[8] J. Vergara, M. Martinez, y O. Caicedo, “A benchmarking of the efficiencyof supervised ML algorithms in the NFV traffic classification”, Sistemas &Telemática, vol. 15, no. 42, pp. 47-67, 2017. https://doi.org/10.18046/syt.v15i42.2539
+[9] R. Lara, y A. Estévez. “Towards an automatic detection system of sportstalents: An approach to Tae Kwon Do”, Sistemas & Telemática, vol. 16, no.47, pp. 31-44, 2018. https://doi.org/10.18046/syt.v16i47.3213
+[10] O. Trejos, y V. Miramá, “Machine learning algorithms for inter-cellinterference coordination”, Sistemas & Telemática, vol. 16, no. 46, pp. 37-57,2018. https://doi.org/10.18046/syt.v16i46.3034
+[11] D. Corrales, A. Ledezma, A. Peña, J. Hoyos, A. Figueroa, y J. C. Corrales.“A new dataset for coffee rust detection in Colombian crops base onclassifiers”, Sistemas & Telemática, vol. 12, no. 29, pp. 9-23, 2014. https://doi.org/10.18046/syt.v12i29.1802
+[12] R. Rosales, y M. Correa. “Model of routing for raw milk collection usinggenetic algorithms”, Sistemas & Telemática, vol. 12, no. 31, pp. 77-88,2014. https://doi.org/10.18046/syt.v12i31.1916
+[13] Y. Zhong, H. Asakura, H. Takakura, y Y. Oshima, “Detecting maliciousinputs of web application parametersusing character class sequences, enComputer Software and Applications Conference (COMPSAC), 2015 IEEE 39thAnnual, jul. 2015, vol. 2, pp. 525-532).
+[14] T. Erl, W. Khattak, y P. Buhler. Big data fundamentals: concepts, drivers &techniques, Boston MA: Prentice Hall Press, 2016.
+[15] W. C. Wu, y S. H. Hung, “DroidDolphin: A dynamic Android malwaredetection framework using big data and machine learning”. en Proceedingsof the 2014 Conference on Research in Adaptive and Convergent Systems, New York,NY: ACM, Oct. 2014, pp. 247-252.
+[16] E. Alpaydin, Introduction to machine learning. Cambridge, MA: MIT Press, 2014.
+[17] A. McCallum y K. Nigam, “A Comparison of Event Models for NaïveBayes Text Classification,” AAAI/ICML- 98 Work. Learn. Text Categ., 1998,pp. 41- 48.
+[18] Y. Gala-García, “Algoritmos SVM para problemas sobre big data”, tesis demaestría, Madrid, España: Universidad Autónoma de Madrid, 2013.
+[19] G. Kaur y A. Chhabra, “Improved J48 classification algorithm for theprediction of diabetes”, Int. J. Comput. Appl., vol. 98, no. 22, pp. 13-17, 2014.
+[20] P. K. Chan, y R. Lippmann, “Machine learning for computer security”,The Journal of Machine Learning Research, vol. 7, 2669-2672, 2006.
+[21] E. Gandotra, D. Bansal, y S. Sofat, “Integrated framework for classificationof malwares, en Proceedings of the 7th International Conference on Security ofInformation and Networks. ACM, Sep. 2014, p- 417.
+[22] K. Rieck, Computer security and machine learning: Worst enemies or bestfriends? en First SysSec Workshop (SysSec), IEEE, Jul. 2011, pp. 107-110.
+[23] N. Elenkov, Android security internals: An in-depth guide to Android’ssecurity architecture. San Francisco, CA: No Starch Press, 2014.
+[24] Security [en línea], disponible en: https://source.android.com/devices/tech/security/
+[25] N. Peiravian, y X. Zhu, Machine learning for android malware detectionusing permission and api calls, en Tools with Artificial Intelligence (ICTAI),2013 IEEE 25th International Conference on, Nov. 2013, pp. 300-305.
+[26] Manifest.permission [en línea], disponible en: http://developer.android.com/reference/android/Manifest.permission.html
+[27] L. Black (2018, oct.), Tumbleson, C. Dex2jar: Tools to work with android. dexand java. class files [en línea]”, disponible en: https://www.kitploit.com/2018/10/dex2jar-tools-to-work-with-android-dex.html
+[28] C. Tumbleson y R. Winsniewski (2012), Android–Apktool: A tool for reverseengineering android apk files [en línea], disponible en: https://ibotpeaches.github.io/Apktool/
+[29] S. Khandelwal (2014, mar.), Android malware ‘Dendroid’ targeting Indian users[en línea], disponible en: http://thehackernews.com/2014/03/androidmalware-dendroid-targeting_26.html
+[30] S. Khandelwal (2014, may.), Police ransomware malware targeting Androidsmartphones [en línea], disponible en: http://thehackernews.com/2014/05/police-ransomware-malware-targeting.html.
+[31] H. Dharmdasani, y V. Pidathala (2014), Android.MisoSMS : Its back! now withXTEA [en línea], disponible en: http://www.fireeye.com/blog/technical/malware-research/2014/03/android-misosms-its-back-now-with-xtea.html
+[32] J. Forristal. “Android Fake ID Vulnerability”, en Black Hat USA 2014, LasVegas: NV, recuperado de: https://www.blackhat.com/docs/us-14/materials/us-14-Forristal-Android-FakeID-Vulnerability-Walkthrough.pdf
+[33] T. Wei, Y. Zhang, H. Xue, M. Zheng, C. Ren, y D. Song. “Sidewinder.Targeted attack against Android in the golden age of ad libraries”, en BlackHat USA 2014, Las Vegas: NV, recuperado de:https://www.blackhat.com/docs/us-14/materials/us-14-Wei-Sidewinder-Targeted-Attack-Against-Android-In-The-Golden-Age-Of-Ad-Libs.pdf
+[34] Y. Zhou, y X. Jiang. “Dissecting android malware: Characterization andevolution”, en 2012 IEEE Symposium on Security and Privacy (SP), pp. 95-109),2012, http://doi.org/10.1109/SP.2012.16
+[35] A. Navarro, S. Londoño, C. Urcuqui, M. Fuentes, y J. Gomez, “Análisisy caracterización de frameworks para detección de aplicacionesmaliciosas en Android”, en XIV Jornada Internacional de Seguridad InformáticaACIS 2014, jun. 2014, recuperado de: https://www.researchgate.net/publication/263236428_Analisis_y_caracterizacion_de_frameworks_para_deteccion_de_aplicaciones_maliciosas_en_android
+[36] S. Londoño, C. Urcuqui, A. Navarro, M. Amaya, y J. Gómez, SafeCandy:System for security, analysis and validation in Android, Sistemas &Telemática, vol. 13, no. 35, pp. 89-102, 2015. https://doi.org/10.18046/syt.v13i35.2154
+[37] K. Tam, A. Feizollah, N. Anuar, R. Salleh, y L. Cavallaro. “The evolution ofandroid malware and android analysis techniques”, ACM Computing Surveys(CSUR), vol. 49 no.76, art. 76, 2017. http://doi.org/10.1145/3017427
+[38] F. Narudin, A. Feizollah, N. Anuar, y A. Gani. “Evaluation of machinelearning classifiers for mobile malware detection”. Soft Computing, vol. 20,no. 20, pp. 343-357, 2016. https://doi.org/10.1007/s00500-014-1511-6
+[39] Y. Zhou, y X. Jiang (2012). Android malware genome project [en línea], disponibleen: http://www.malgenomeproject.org
+[40] D. Krutz, M. Mirakhorli, S. Malachowsky, A.Ruiz, J.Peterson, A.Filipski, yJ.Smith. “A dataset of open-source Android applications”, en 2015 IEEE/ACM 12th Working Conference on Mining Software Repositories (MSR), IEEE,may. 2015, pp. 522-525. https://doi.org/10.1109/MSR.2015.79
+[41] D. Arp, M. Spreitzenbarth, M. Hubner, H. Gascon, y K. Rieck. “DREBIN:Effective and explainable detection of Android malware in your pocket”, enProceedings of the 2014 Network and Distributed System Security Symposium (NDSS’14),San Diego, CA, feb. 2014, recuperado de: http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/11_3_1.pdf
+[42] K. Allix, T. Bissyandé, J. Klein, y Y, Le. “Androzoo: Collecting millionsof Android apps for the research community”, en 2016 IEEE/ACM 13thWorking Conference on Mining Software Repositories (MSR), IEEE, mayo 2016,pp. 468-471. https://doi.org/ 10.1109/MSR.2016.056
+[43] D. Cao, S. Wang, Q. Li, Z. Cheny, Q. Yan, L. Peng, y B. Yang.“DroidCollector: A high performance framework for high quality Androidtraffic collection”, en 2016 IEEE Trustcom/BigDataSE/I SPA, ago. 2016, pp.1753-1758. http://doi.org/ 10.1109/TrustCom.2016.0269
+[44] VirusShare (2017), VirusShare.com - Because sharing is caring [en línea], disponibleen: https://virusshare.com/
+[45] M. Parkour (2013), Contagio Mobile - Mobile malware mini dump [en línea],disponible en: http://contagiominidump.blogspot.com.co
+[46] Malware-Traffic-Analysis.net (2013). A source for pca. p files and malwaresamples [en línea], disponible en: http://malware-traffic-analysis.net/
+[47] C. Chang, y C. Lin. “LIBSVM: A library for support vector machines”,ACM Transactions on Intelligent Systems and Technology (TIST),vol. 2,no. 27,2011. http://doi.org/ 10.1145/1961189.1961199
+[48] A. Feizollah, N. Anuar, R. Salleh, F. Amalina, R. Ma’arof, y S.Shamshirband, “A study of machine learning classifiers for anomaly-basedmobile botnet detection”, Malaysian Journal of Computer Science, vol. 26, no.4, pp. 251-265, 2013.
+[49] M. Hall, E. Frank, G. Holmes, B. Pfahringer, P. Reutemann, e I.Witten. “The WEKA data mining software: an update”. ACM SIGKDDExplorations Newsletter, vol. 11, no. 1, pp. 10-18, 2009. http://doi.org/10.1145/1656274.1656278
+[50] J. Sahs, y L. Khan, “A machine learning approach to android malwaredetection”, en 2012 European Intelligence and Security Informatics Conference(EISIC), ago. 2012, pp. 141-147. http://doi.org/10.1109/EISIC.2012.34
+[51] A. Desnos, y G. Gueguen, “Android: From reversing to decompilation”,en Black Hat Abu Dhabi, 2011, pp. 77-101. Disponible en: https://media.blackhat.com/bh-ad-11/Desnos/bh-ad-11-DesnosGueguen-Andriod-Reversing_to_Decompilation_WP.pdf
+[52] scikit-learn: machine learning in Python (2018, nov.), scikit-learndocumentation[en línea], disponible en: http://scikit-learn.org/stable/
+[53] M. Ghorbanzadeh, Y. Chen, Z. Ma, T. Clancy, y R. McGwier. “A neuralnetwork approach to category validation of android applications”, en2013 International Conference on Computing, Networking and Communications(ICNC), IEEE, ene., 2013, pp. 740-744. http://doi.org/ 10.1109/ICCNC.2013.6504180
+[54] S. Yerima, S. Sezer, G. McWilliams, e I. Muttik, “A new android malwaredetection approach using bayesian classification”, en 2013 IEEE 27thInternational Conference on Advanced Information Networking and Applications(AINA), 2013, mar., pp. 121-128). http://doi.org/ 10.1109/AINA.2013.88
+[55] A. K. Dalai, y S. K. Jena, “Evaluationof web application security risks andsecure design patterns, en: Proceedings of the 2011 International Conference onCommunication, Computing & Security, ACM, 2011, feb., pp. 565-568.[56] WhiteHat Security, Applications security statistics report: The evolution of the securesoftware life cycle. San José, CA: WhiteHat Security, 2018.
+[56] WhiteHat Security, Applications security statistics report: The evolution of the securesoftware life cycle. San José, CA: WhiteHat Security, 2018.
+[57] A. Halsall, “Introducción”, en R. Moreno (Ed.), Redes de computadoras einternet, Madrid, España: Addison-Wesley, 2006, pp. 20-24.
+[58] The Open Web Application Security Project (2017), OWASP Top 10- 2017 The Ten Most Critical Web Application Security Risks [en línea],disponible en: https://www.owasp.org/images/7/72/OWASP_Top_10-2017_%28en%29.pdf.pdf
+[59] Hipertextual.com, (2016, Oct, 21), Esta es la razón por la que muchas websimportantes están caídas [en línea], disponible en: https://hipertextual.com/2016/10/ataque-dns-webs-caidas
+[60] Página web de la Registraduría sufrió un ataque informático, (2016, sept.28), disponible en: http://www.elpais.com.co/elpais/colombia/procesopaz/noticias/pagina-web-registraduria-sufrio-ataque-informatico#.VyIXlhusjg.email
+[61] O. Mondragón, A. Mera, C. Urcuqui, y A. Navarro, “Security controlfor website defacement”, Sistemas & Telemática, vol. 15 no. 41, pp. 45-55.https://doi.org/10.18046/syt.v15i41.2442
+[62] Ministerio de las Tecnologías de la Información y las Comunicaciones[MINTIC], Conpes 3701 de 2011: Lineamientos de política para laCiberseguridad y Ciberdefensa, Bogotá, Colombia, MINTIC, 2011.
+[63] colCERT, Grupo de Respuesta a Emergencias Cibernéticas de Colombia[portal], disponible en: http://www.colcert.gov.co/
+[64] C. Urcuqui y A. Navarro, “Working together to control website defacement:Lessons from Colombia, ITUNews, 2017, marzo 23, disponible en: https://news.itu.int/working-together-to-control-website-defacement-lessonsfrom-colombia/
+[65] M. Roesch, Snort: Lightweight intrusion detection for networks, LISA, vol.99, no. 1, pp. 229-238). Nov., 1999.
+[66] B. Caswell, J. Beale, y A. Baker, Snort intrusion detection and prevention toolkit.Burlington, MA: Syngress, 2007.
+[67] G. Howard, C. Gutierrez, F. Arshad, S. Bagchi, y Y. Qi. “pSigene:webcrawling to generalize SQL injection signatures”,en 44th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), jun.,2014, junio, pp. 45-56. http://doi.org/10.1109/DSN.2014.21
+[68] A. Bartoli, G. Davanzo, y E. Medvet, “A framework for large-scale detectionof web site defacements”, ACM Transactions on Internet Technology (TOIT),vol. 10, no. 3, Oct., 2010.
+[69] L. Xu, Z. Zhan, S. Xu, and K. Ye, “Cross-layer detection of maliciouswebsites”, en Proc. ACM Conf. Data Appl. Secur. Priv., 2013, pp. 141–152.
+[70] A. Mohaisen, “Towards automatic and lightweight detection andclassification of malicious web contents”, en Third IEEE Workshop on HotTopics in Web Systems and Technologies (HotWeb), Washington, DC, 2015. https://doi.org/10.1109/HotWeb.2015.20
+[71] PyShark: Python packet parser using wireshark’s tshark [en ínea], disponible en:http://kiminewt.github.io/pyshark/
+[72] Kaggle / Datasets [en línea], disponible en: https://www.kaggle.com/datasets
+[73] IEEE DataPort [en línea], disponible en: https://ieee-dataport.org/documents/dataset-malwarebeningn-permissions-android
+[74] C. Urcuqui, Malicious and benign websites [en línea], disponible en: https://www.kaggle.com/xwolf12/malicious-and-benign-websites
+[75] C. Urcuqui., A. Navarro, J. Osorio, y M. García (2018), Malicious and benignwebsites [en línea], disponible en: https://ieee-dataport.org/documents/malicious-and-benign-websites
+[76] H. Dang, Y. Huang, y E. C. Chang, “Evading classifiers by morphing inthe dark, en Proceedings of the 2017 ACM SIGSAC Conference on Computer andCommunications Security, oct. 2017, pp. 119-133.
+[77] W. Hu, y Y. Tan (2017, feb. 20, Generating adversarial malware examples forblack-box attacks based on GAN [en línea], disponible en: https://arxiv.org/abs/1702.05983
+[78] S. Huang, N. Papernot, I. Goodfellow, Y. Duan, y P. Abbeel (2017, feb. 8),Adversarial attacks on neural network policies [en línea], disponible en: https://arxiv.org/abs/1702.02284
